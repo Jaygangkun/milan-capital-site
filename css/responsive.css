@@ -1,0 +1,445 @@
+@media only screen and (max-width : 1200px) {
+    .home-hero{
+        padding-top: 250px;
+    }
+
+    .home-hero-wrap{
+        padding-bottom: 200px;
+    }
+
+    .home-hero-right{
+        padding-right: 0px;
+    }
+
+    .home-accelerated-result-number{
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .home-accelerated-note-desc{
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .home-future-section{
+        padding-top: 300px;
+    }
+}
+
+@media only screen and (max-width : 992px) {
+    .home-hero{
+        padding-top: 200px;
+    }
+
+    .home-hero-wrap{
+        padding-bottom: 150px;
+    }
+
+    .home-hero-slider{
+        margin-top: 0px;
+    }
+
+    .home-hero-menu{
+        margin-right: 100px;
+    }
+
+    .home-hero-slide-desc-40{
+        font-size: 34px;
+        line-height: 50px;
+    }
+
+    .home-accelerated-row{
+        display: block;
+    }
+
+    .home-accelerated-col{
+        width: 100%;
+    }
+
+    .home-accelerated-note{
+        position: relative;
+    }
+
+    .home-accelerated-result-number{
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .home-future-section{
+        padding-top: 100px;
+    }
+
+    .home-future-desc{
+        font-size: 50px;
+    }
+
+    .home-future-section{
+        padding-bottom: 150px;
+    }
+
+    .home-dna-title{
+        font-size: 62px;
+    }
+
+    .home-dna-section{
+        padding-bottom: 100px;
+    }
+
+    .home-image-desc-section-content{
+        padding: 60px 50px
+    }
+
+    .section-title-playfair{
+        font-size: 40px;
+    }
+
+    .footer-top-col-logo{
+        text-align: center;
+    }
+
+    .footer-top-col-socials{
+        text-align: center;
+    }
+
+    .footer-top-col-menu, .footer-top-col-socials{
+        padding-top: 50px;
+    }
+
+    .footer-subscribe-form-title{
+        padding-left: 0px;
+    }
+}
+
+@media only screen and (max-width : 767px) {
+    .home-hero-wrap{
+        display: block;
+    }
+
+    .home-hero-right{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .home-hero-slick-dots{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .home-accelerated-innovation{
+        padding-top: 100px;
+    }
+
+    .home-accelerated-note-desc{
+        margin-top: 50px;
+    }
+
+    .home-accelerated-note{
+        padding: 60px 40px;
+    }
+
+    .home-accelerated-result-number{
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .home-accelerated-result-row-wrap{
+        padding: 30px 0px;
+    }
+
+    .home-accelerated-result{
+        margin-top: 50px;
+    }
+
+    .home-future-line-v{
+        height: 100px;
+    }
+
+    .home-future-section{
+        padding-bottom: 100px;
+    }
+
+    .home-dna-section{
+        padding-top: 100px;
+    }
+
+    .home-dna-title{
+        font-size: 52px;
+    }
+
+    .home-dna-sub-title{
+        font-size: 45px;
+    }
+
+    .home-future-desc{
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .home-image-desc-section-wrap{
+        width: 100%;
+    }
+
+    .link{
+        font-size: 20px;
+        padding: 15px 40px;
+    }
+
+    .section-desc{
+        font-size: 20px;
+    }
+
+    .home-image-desc-section{
+        padding-top: 150px;
+    }
+
+    .home-questions-title__text{
+        font-size: 40px;
+    }
+
+    .home-questions-title__text::after{
+        bottom: -20px;
+    }
+
+    .home-question-header{
+        padding: 30px 40px;
+    }
+
+    .home-question-icon{
+        height: 16px;
+    }
+
+    .home-question-body{
+        padding: 30px 40px;
+    }
+
+    .footer-top-logo-img{
+        height: 50px;
+    }
+}
+
+
+@media only screen and (max-width : 576px) {
+    .home-hero-slide-desc-40{
+        font-size: 28px;
+    }
+
+    .home-hero-slide-title{
+        font-size: 16px;
+    }
+
+    .home-accelerated-innovation{
+        padding-top: 80px;
+    }
+
+    .section-sub-title{
+        font-size: 26px;
+    }
+
+    .section-sub-title-small{
+        font-size: 20px;
+    }
+
+    .home-accelerated-note-desc{
+        margin-top: 30px;
+    }
+
+    .home-accelerated-note-desc{
+        font-size: 22px;
+    }
+
+    .home-accelerated-note-arrow-img{
+        height: 50px;
+    }
+
+    .home-accelerated-result-number{
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .home-accelerated-result-name{
+        font-size: 18px;
+    }
+
+    .home-future-desc{
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    .home-dna-title{
+        font-size: 42px;
+    }
+
+    .home-dna-sub-title{
+        font-size: 35px;
+    }
+
+    .home-dna-section{
+        padding-bottom: 60px;
+    }
+
+    .link{
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+
+    .section-title-playfair{
+        font-size: 35px;
+    }
+
+    .section-desc{
+        font-size: 16px;
+    }
+
+    .link-wrap{
+        margin-top: 30px;
+    }
+
+    .home-questions-section{
+        padding-top: 80px;
+    }
+
+    .home-questions-list{
+        margin-top: 60px;
+    }
+
+    .home-questions-title__text{
+        font-size: 30px;
+    }
+
+    .home-question-q-text{
+        font-size: 18px;
+    }
+
+    .footer-top{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .footer-copyright{
+        font-size: 16px;
+    }
+
+    .footer-bottom-link{
+        font-size: 16px;
+    }
+
+    .footer-top-desc{
+        font-size: 16px;
+    }
+
+    .footer-link{
+        font-size: 16px;
+    }
+
+    .footer-social-title{
+        font-size: 16px;
+    }
+
+    .footer-subscribe-form-btn{
+        font-size: 16px;
+    }
+
+    .footer-subscribe-form-wrap{
+        display: block;
+    }
+
+    .footer-subscribe-form-btn{
+        text-align: center;
+    }
+
+    .footer-subscribe-form-wrap [type="text"]{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width : 400px) {
+    .home-hero-slide-desc-40{
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .home-hero-wrap{
+        padding-bottom: 100px;
+    }
+
+    .home-accelerated-note{
+        padding: 40px 20px;
+    }
+
+    .home-accelerated-innovation{
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .section-sub-title{
+        font-size: 20px;
+    }    
+
+    .home-accelerated-note-desc{
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .home-accelerated-result-number{
+        font-size: 36px;
+    }
+
+    .home-accelerated-result-name{
+        font-size: 14px;
+    }
+
+    .home-accelerated-result-row-wrap{
+        padding: 20px 0px;
+    }
+
+    .home-future-section{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .home-future-desc{
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    .home-future-line-v{
+        height: 60px;
+    }
+
+    .home-dna-section{
+        padding-top: 60px;
+    }
+
+    .home-dna-title{
+        font-size: 32px;
+    }
+
+    .home-dna-sub-title{
+        font-size: 25px;
+    }
+
+    .home-image-desc-section{
+        padding-top: 60px;
+    }
+
+    .home-image-desc-section-content{
+        padding: 30px 20px;
+    }
+
+    .section-title-playfair{
+        font-size: 30px;
+    }
+
+    .home-question-header{
+        padding: 30px 20px;
+    }
+
+    .home-questions-section{
+        padding-bottom: 60px;
+    }
+
+    .home-hero{
+        padding-top: 150px;
+    }
+}
