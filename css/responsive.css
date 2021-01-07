@@ -24,6 +24,11 @@
     .home-future-section{
         padding-top: 300px;
     }
+
+    .strategies-hero-section{
+        padding-top: 180px;
+        padding-bottom: 200px;
+    }
 }
 
 @media only screen and (max-width : 992px) {
@@ -141,6 +146,27 @@
 
     .firm-introduction-col-wrap{
         padding: 100px 60px;
+    }
+
+    .strategies-hero-section{
+        padding-top: 130px;
+        padding-bottom: 150px;
+    }
+
+    .strategies-logo-desc-block-logo__img{
+        height: 40px;
+    }
+
+    .strategies-logo-desc-block-title{
+        font-size: 25px;
+    }
+
+    .strategies-logo-desc-block-sep-line{
+        height: 50px;
+    }
+
+    .strategies-desc-section-text2{
+        margin-top: 40px;
     }
 }
 
@@ -289,6 +315,28 @@
     .firm-introduction-desc{
         font-size: 16px;
     }
+
+    .strategies-desc-section{
+        padding-top: 100px;
+        padding-bottom: 130px;
+    }
+
+    .strategies-logos-section{
+        padding-top: 100px;
+    }
+
+    .strategies-logo-desc-block-top{
+        padding: 60px;
+    }
+
+    .section-title{
+        font-size: 40px;
+    }
+
+    .strategies-hero-section{
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
 }
 
 
@@ -433,6 +481,32 @@
     .firm-history-desc{
         font-size: 24px;
     }
+
+    .strategies-desc-section{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .section-title{
+        line-height: 50px;
+    }
+
+    .strategies-desc-section-text2{
+        margin-top: 20px;
+    }
+
+    .strategies-logos-section{
+        padding-top: 60px;
+    }
+
+    .strategies-logo-desc-block-top{
+        padding: 40px;
+        margin-bottom: 40px;
+    }
+
+    .strategies-logo-desc-block{
+        margin-bottom: 50px;
+    }
 }
 
 @media only screen and (max-width : 400px) {
@@ -563,5 +637,30 @@
 
     .firm-video-play-btn__img{
         width: 40px;
+    }
+
+    .strategies-logo-desc-block-logo__img,
+    .strategies-logo-desc-block--small .strategies-logo-desc-block-logo__img{
+        height: 25px;
+    }
+
+    .strategies-logo-desc-block-title,
+    .strategies-logo-desc-block--small .strategies-logo-desc-block-title{
+        font-size: 14px;
+    }
+
+    .strategies-logo-desc-block-sep-line,
+    .strategies-logo-desc-block--small .strategies-logo-desc-block-sep-line{
+        height: 25px;
+    }
+
+    .section-title{
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .strategies-hero-section{
+        padding-top: 80px;
+        padding-bottom: 80px;
     }
 }

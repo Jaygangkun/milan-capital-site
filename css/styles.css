@@ -850,3 +850,75 @@
     width: 50%;
     min-width: 600px;
 }
+
+.section-title{
+    font-family: 'PlayfairDisplay-Bold';
+    font-size: 48px;
+    color: #FFFFFF;   
+    line-height: 70px;
+}
+
+.strategies-hero-section{
+    padding-top: 210px;
+    padding-bottom: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.strategies-desc-section{
+    padding-top: 150px;
+    padding-bottom: 180px;
+    background: #f9f9f9;
+}
+
+.strategies-desc-section-text1{
+    color: #035b44;
+}
+
+.strategies-logo-desc-block-top{
+    box-shadow: 1px 1px 15px #d3d2d2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+    margin-bottom: 80px;
+}
+
+.strategies-logo-desc-block-logo__img{
+    height: 80px;
+}
+
+.strategies-logo-desc-block--small .strategies-logo-desc-block-logo__img{
+    height: 40px;
+}
+
+.strategies-logo-desc-block-sep-line{
+    background: #929497;
+    width: 1px;
+    height: 80px;
+    margin: 0px 20px;
+    flex-shrink: 0;
+}
+
+.strategies-logo-desc-block--small .strategies-logo-desc-block-sep-line{
+    height: 50px;
+}
+
+.strategies-logo-desc-block-title{
+    font-size: 42px;
+    font-family: 'Gotham-Medium';
+    color: #929497;
+}
+
+.strategies-logo-desc-block--small .strategies-logo-desc-block-title{
+    font-size: 25px;
+}
+
+.strategies-logo-desc-block{
+    margin-bottom: 80px;
+}
+
+.strategies-logos-section{
+    padding-top: 150px;
+}
