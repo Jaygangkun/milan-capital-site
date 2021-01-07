@@ -31,5 +31,29 @@
             }
 
         })
+
+        if($('.firm-history-slider').length > 0){
+            $('.firm-history-slider').slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: true,
+                infinite: true,
+                autoplay: true,
+                arrows: true,
+                nextArrow: $('.firm-history-slider-next-icon'),
+                prevArrow: $('.firm-history-slider-prev-icon')
+            });
+        }
+
+        if($('.link-video-popup').length > 0){
+            $(".link-video-popup").fancybox({
+                'hideOnContentClick': true
+            });
+    
+            $(document).on('click', '.link-video-popup', function(){
+                var target = $(this).attr('href');
+                $(target).find('iframe').attr('src', $(target).find('iframe').attr('data-src'));
+            })
+        }
     })
 })(jQuery)

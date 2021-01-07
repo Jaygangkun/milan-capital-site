@@ -108,6 +108,40 @@
     .footer-subscribe-form-title{
         padding-left: 0px;
     }
+
+    .firm-video-wrap{
+        padding: 60px;
+    }
+
+    .firm-video-logo-icon-img{
+        right: 15px;
+        top: 15px;
+        width: 30px;
+    }
+
+    .firm-video-play-btn__img{
+        width: 60px;
+    }
+
+    .firm-history-year{
+        font-size: 90px;
+    }
+
+    .firm-history-desc{
+        font-size: 30px;
+    }
+
+    .firm-introduction-section{
+        display: block;
+    }
+
+    .firm-introduction-col{
+        width: 100%;
+    }
+
+    .firm-introduction-col-wrap{
+        padding: 100px 60px;
+    }
 }
 
 @media only screen and (max-width : 767px) {
@@ -192,11 +226,11 @@
         padding-top: 150px;
     }
 
-    .home-questions-title__text{
+    .section-title-underline__text{
         font-size: 40px;
     }
 
-    .home-questions-title__text::after{
+    .section-title-underline__text::after{
         bottom: -20px;
     }
 
@@ -214,6 +248,46 @@
 
     .footer-top-logo-img{
         height: 50px;
+    }
+
+    .firm-main-section{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .firm-history-section{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .firm-history-year{
+        font-size: 70px;
+    }
+
+    .firm-history-slider-prev-icon__img,
+    .firm-history-slider-next-icon__img{
+        width: 18px;
+    }
+
+    .firm-desc-section{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #firm_video_modal{
+        min-width: 500px;
+    }
+
+    .firm-introduction-col-wrap{
+        padding: 60px 40px;
+    }
+
+    .firm-introduction-title{
+        font-size: 28px;
+    }
+
+    .firm-introduction-desc{
+        font-size: 16px;
     }
 }
 
@@ -303,7 +377,7 @@
         margin-top: 60px;
     }
 
-    .home-questions-title__text{
+    .section-title-underline__text{
         font-size: 30px;
     }
 
@@ -350,6 +424,14 @@
 
     .footer-subscribe-form-wrap [type="text"]{
         width: 100%;
+    }
+
+    #firm_video_modal{
+        min-width: 350px;
+    }
+
+    .firm-history-desc{
+        font-size: 24px;
     }
 }
 
@@ -441,5 +523,45 @@
 
     .home-hero{
         padding-top: 150px;
+    }
+
+    .firm-introduction-col-wrap{
+        padding: 40px 20px;
+    }
+
+    .firm-introduction-title{
+        font-size: 24px;
+    }
+
+    .firm-history-desc{
+        font-size: 20px;
+    }
+
+    .firm-history-year{
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+
+    .firm-history-section{
+        padding-bottom: 40px;
+    }
+
+    .firm-main-section{
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .firm-video-wrap{
+        padding: 40px;
+    }
+
+    .firm-video-logo-icon-img{
+        right: 10px;
+        top: 10px;
+        width: 20px;
+    }
+
+    .firm-video-play-btn__img{
+        width: 40px;
     }
 }

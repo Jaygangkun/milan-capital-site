@@ -359,11 +359,12 @@
     padding-bottom: 100px;
 }
 
-.home-questions-title{
+.section-title-underline{
     text-align: center;
+    margin-bottom: 50px;
 }
 
-.home-questions-title__text{
+.section-title-underline__text{
     position: relative;
     font-size: 48px;
     color: #035b44;
@@ -371,7 +372,7 @@
     display: inline-block;
 }
 
-.home-questions-title__text::after{
+.section-title-underline__text::after{
     content: '';
     position: absolute;
     left: 25%;
@@ -646,4 +647,206 @@
     right: 0px;
     bottom: 10px;
     cursor: pointer;
+}
+
+.header-logo__img--color{
+    display: none;
+}
+
+.header--white-bk .header-logo__img--color{
+    display: block;
+}
+
+.header--white-bk .header-logo__img--white{
+    display: none;
+}
+
+.header-hamburger-icon__img--color{
+    display: none;
+}
+
+.header--white-bk .header-hamburger-icon__img--color{
+    display: block;
+}
+
+.header--white-bk .header-hamburger-icon__img--white{
+    display: none;
+}
+
+.firm-video-wrap{
+    margin-top: 50px;
+    background: #035b44;
+    padding: 100px;
+    position: relative;
+}
+
+.firm-video-img-wrap{
+    width: 100%;
+    height: 0px;
+    padding-top: 45.7%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.firm-video-play-btn{
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.firm-video-play-btn__img{
+    width: 80px;
+}
+
+.firm-video-logo-icon-img{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 45px;
+}
+
+.firm-main-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.header--white-bk{
+    border-bottom: 2px solid #e8e9e9;
+}
+
+.firm-history-year{
+    font-family: 'PlayfairDisplay-Regular';
+    font-size: 120px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.firm-history-desc{
+    font-family: 'Gotham-Book';
+    font-size: 36px;
+    color: #FFFFFF;   
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.firm-history-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.firm-history-section .section-sub-title{
+    color: #49b795;
+}
+
+.firm-history-slider .slick-dots li{
+    width: 15px;
+    height: 15px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+}
+
+.firm-history-slider .slick-dots li.slick-active{
+    background: #49b795;
+    border: 2px solid #49b795;
+}
+
+.firm-history-slider .slick-dots li button:before{
+    display: none;
+}
+
+.firm-desc-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.firm-desc-section .home-dna-sub-title{
+    text-align: center;
+}
+
+.firm-introduction-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.firm-introduction-col{
+    width: 33.33%
+}
+
+.firm-introduction-col:nth-of-type(1){
+    background: #f5f5f5;
+}
+
+.firm-introduction-col:nth-of-type(2){
+    background: #efefef;
+}
+
+.firm-introduction-col:nth-of-type(3){
+    background: #e8e8e8;
+}
+
+.firm-introduction-col-wrap{
+    padding: 140px 60px;
+}
+
+.firm-introduction-title{
+    font-size: 35px;
+    color: #035b44;
+    font-family: 'PlayfairDisplay-Bold';
+    margin-bottom: 20px;
+}
+
+.firm-introduction-desc{
+    font-size: 21px;
+    color: #596361;
+    font-family: 'Gotham-Book';   
+}
+
+.firm-history-slider-container{
+    position: relative;
+}
+
+.firm-history-slider-prev-icon{
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    cursor: pointer;
+}
+
+.firm-history-slider-next-icon{
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    cursor: pointer;
+}
+
+.firm-history-slide{
+    padding: 0px 50px;
+}
+
+.video-iframe-wrap{
+    width: 100%;
+    height: 0px;
+    padding-top: 60%;
+    position: relative;
+}
+  
+.video-iframe-wrap video{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#firm_video_modal{
+    width: 50%;
+    min-width: 600px;
 }

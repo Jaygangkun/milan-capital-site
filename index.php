@@ -181,7 +181,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 mx-auto">                    
-                    <h2 class="home-questions-title"><span class="home-questions-title__text">QUESTIONS</span></h2>
+                    <h2 class="section-title-underline"><span class="section-title-underline__text">QUESTIONS</span></h2>
                     <div class="home-questions-list">
                         <div class="home-question-row">
                             <div class="home-question-header">
