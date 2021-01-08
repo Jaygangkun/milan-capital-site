@@ -168,6 +168,42 @@
     .strategies-desc-section-text2{
         margin-top: 40px;
     }
+
+    .why-practice-section{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .why-practice-section .section-desc{
+        margin-top: 50px;
+    }
+
+    .why-title-desc-section{
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+
+    .why-title-block{
+        margin-bottom: 60px;
+    }
+
+    .why-diversity-section{
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+
+    .why-diversity-col-wrap{
+        padding: 70px 40px;
+    }
+
+    .why-diversity-section .section-sub-title-small{
+        margin-bottom: 40px;
+    }
+
+    .why-desc-section{
+        padding-top: 120px;
+        padding-bottom: 100px;
+    }
 }
 
 @media only screen and (max-width : 767px) {
@@ -336,6 +372,39 @@
     .strategies-hero-section{
         padding-top: 100px;
         padding-bottom: 120px;
+    }
+
+    .why-practice-section{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .why-practice-arrow-down__img{
+        margin-top: 20px;
+        height: 70px;
+    }
+
+    .why-title-block{
+        margin-bottom: 40px;
+    }
+
+    .why-title-desc-section{
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .why-call-section-title{
+        font-size: 45px;
+    }
+
+    .why-call-section{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .why-desc-section{
+        padding-top: 80px;
+        padding-bottom: 60px;
     }
 }
 
@@ -507,6 +576,28 @@
     .strategies-logo-desc-block{
         margin-bottom: 50px;
     }
+
+    .why-call-section-title{
+        font-size: 36px;
+    }
+
+    .why-diversity-col-wrap{
+        padding: 40px;
+    }
+
+    .why-diversity-section .section-sub-title-small{
+        margin-bottom: 20px;
+    }
+
+    .why-diversity-section{
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    .why-desc-section{
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
 }
 
 @media only screen and (max-width : 400px) {
@@ -662,5 +753,23 @@
     .strategies-hero-section{
         padding-top: 80px;
         padding-bottom: 80px;
+    }
+
+    .why-call-section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .why-call-section-title{
+        font-size: 30px;
+    }
+
+    .why-diversity-section{
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+
+    .why-practice-arrow-down__img{
+        height: 50px;
     }
 }

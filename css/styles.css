@@ -14,6 +14,16 @@
 }
 
 @font-face {
+    font-family: 'Gotham-Black';
+    src: url(../fonts/Gotham-Black.otf);
+}
+
+@font-face {
+    font-family: 'Gotham-Light';
+    src: url(../fonts/Gotham-Light.otf);
+}
+
+@font-face {
     font-family: 'PlayfairDisplay-Bold';
     src: url(../fonts/PlayfairDisplay-Bold.ttf);
 }
@@ -921,4 +931,68 @@
 
 .strategies-logos-section{
     padding-top: 150px;
+}
+
+.why-practice-section{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background: #035b44
+}
+
+.why-practice-arrow-down__img{
+    margin-top: 50px;
+}
+
+.why-practice-section .section-desc{
+    color: #FFFFFF
+}
+
+.why-title-desc-section{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+.why-title-block{
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.why-call-section-title{
+    font-size: 55px;
+    color: #035b44;
+    font-family: 'PlayfairDisplay-BoldItalic';
+    text-align: center;
+}
+
+.why-call-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #f9f9f9;
+}
+
+.why-diversity-section{
+    padding-top: 200px;
+    padding-bottom: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.why-diversity-col-wrap{
+    background: #FFFFFF;
+    padding: 110px 70px;
+    border-left: 7px solid #49b795;
+}
+
+.why-diversity-section .section-sub-title-small{
+    margin-bottom: 64px;
+}
+
+.why-desc-section{
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+
+.why-desc-section .section-desc{
+    text-align: center;
 }
