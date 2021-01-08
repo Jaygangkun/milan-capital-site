@@ -11,26 +11,26 @@
                     <div class="col-lg-3 footer-top-col footer-top-col-menu">
                         <div class="footer-top-col-menu-wrap">
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">HOME</a>
+                                <a class="footer-link" href="/">HOME</a>
                             </div>                        
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">OUR DNA</a>
+                                <a class="footer-link" href="/firm">OUR DNA</a>
                             </div>
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">STRATEGIES</a>
+                                <a class="footer-link" href="/strategies">STRATEGIES</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 footer-top-col footer-top-col-menu">
                         <div class="footer-top-col-menu-wrap">
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">WHY MILAN</a>
+                                <a class="footer-link" href="/why-milan">WHY MILAN</a>
                             </div>
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">QUESTIONS</a>
+                                <a class="footer-link" href="/#home_questions_section">QUESTIONS</a>
                             </div>
                             <div class="footer-link-wrap">
-                                <a class="footer-link" href="#">CONTACT</a>
+                                <a class="footer-link" href="/capital-contact">CONTACT</a>
                             </div>
                         </div>
                     </div>

@@ -177,7 +177,7 @@
         </div>
     </div>
 
-    <div class="home-questions-section">
+    <div class="home-questions-section" id="home_questions_section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 mx-auto">                    
