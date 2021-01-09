@@ -29,6 +29,7 @@
         padding-top: 180px;
         padding-bottom: 200px;
     }
+
 }
 
 @media only screen and (max-width : 992px) {
@@ -129,7 +130,7 @@
     }
 
     .firm-history-year{
-        font-size: 90px;
+        /* font-size: 60px; */
     }
 
     .firm-history-desc{
@@ -209,6 +210,35 @@
         padding-top: 100px;
         padding-bottom: 70px;
     }
+
+    .footer-top-logo-img{
+        width: auto;
+    }
+
+    .footer-top-col-menu--desktop{
+        display: none;
+    }
+
+    .footer-top-col-menu--mobile{
+        display: block;
+    }
+
+    .footer-top-col-menu-wrap{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;        
+    }
+
+    .footer-link-wrap{
+        padding: 0px 10px;
+        border-right: 2px solid #FFFFFF;
+        margin-bottom: 20px;
+    }
+
+    .footer-link-wrap:last-of-type{
+        border-right: 0px;
+    }
 }
 
 @media only screen and (max-width : 767px) {
@@ -268,7 +298,7 @@
     }
 
     .home-dna-sub-title{
-        font-size: 45px;
+        font-size: 40px;
     }
 
     .home-future-desc{
@@ -427,6 +457,42 @@
 
     .contact-form-input-wrap select{
         background-position-x: calc(100% - 20px);
+    }
+
+    .home-hero-menu{
+        display: none;
+    }
+
+    .mobile-menu .home-hero-menu{
+        display: block;
+        width: 100%;
+        max-width: initial;
+    }
+
+    .home-hero{
+        padding-top: 150px;
+    }
+
+    .home-hero-drop-down-icon-wrap{
+        left: 50%;
+        bottom: 0px;
+        transform: translateX(-50%);
+    }
+
+    .header-hamburger-icon__img{        
+        display: block;
+    }
+    
+    .header-hamburger-icon__img--color{
+        display: none;
+    }
+
+    .header--white-bk .header-hamburger-icon__img--color{
+        display: block;
+    }
+    
+    .header--white-bk .header-hamburger-icon__img--white{
+        display: none;
     }
 }
 
@@ -639,6 +705,19 @@
     .contact-desc-text{
         font-size: 20px;
     }
+
+    .container--large{
+        width: calc(100% - 40px);
+    }
+
+    .container{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .footer-top-col-menu, .footer-top-col-socials{
+        padding-top: 30px;
+    }
 }
 
 @media only screen and (max-width : 400px) {
@@ -741,6 +820,7 @@
 
     .firm-history-desc{
         font-size: 20px;
+        padding-bottom: 40px;
     }
 
     .firm-history-year{
@@ -812,5 +892,23 @@
 
     .why-practice-arrow-down__img{
         height: 50px;
+    }
+
+    .firm-history-slider .slick-dots li{
+        width: 10px;
+        height: 10px;
+    }
+
+    .firm-history-slider-prev-icon__img, .firm-history-slider-next-icon__img{
+        width: 10px;
+    }
+
+    .firm-desc-section{
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .header-logo__img{
+        height: 35px;
     }
 }

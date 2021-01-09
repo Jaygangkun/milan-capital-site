@@ -16,6 +16,9 @@
                             <div class="firm-video-play-btn link-video-popup" href="#firm_video_modal">
                                 <img class="firm-video-play-btn__img" src="images/icon-play.png">
                             </div>
+                            <video controls style="display: none">
+                                <source src="videos/MC-video-2.m4v" type="video/ogg">
+                            </video>
                         </div>
                         <img class="firm-video-logo-icon-img" src="images/icon-logo-white.png">
                     </div>
@@ -43,24 +46,36 @@
                         <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
                     </div>
                     <div class="firm-history-slide">
-                        <div class="firm-history-year">2011</div>
-                        <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
+                        <div class="firm-history-year">2010</div>
+                        <div class="firm-history-desc">Milan Family Holdings (the first version of Milan Capital Management) is formed to acquire 10 cell phone stores.</div>
                     </div>
                     <div class="firm-history-slide">
                         <div class="firm-history-year">2012</div>
-                        <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
+                        <div class="firm-history-desc">Baby Panda Apps created after reading The 4-Hour Workweek.</div>
                     </div>
                     <div class="firm-history-slide">
-                        <div class="firm-history-year">2013</div>
-                        <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
-                    </div>
-                    <div class="firm-history-slide">
-                        <div class="firm-history-year">2014</div>
-                        <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
+                        <div class="firm-history-year">2013-2015</div>
+                        <div class="firm-history-desc">Emoji Slayer app does over $10MM in revenue.</div>
                     </div>
                     <div class="firm-history-slide">
                         <div class="firm-history-year">2015</div>
-                        <div class="firm-history-desc">The Space Hunters is started from an apartment couch in Birmingham, AL with a $6k investment.</div>
+                        <div class="firm-history-desc">Milan Family Holdings acquires its first commercial real estate property.</div>
+                    </div>
+                    <div class="firm-history-slide">
+                        <div class="firm-history-year">2016</div>
+                        <div class="firm-history-desc">300+ unit apartment complex is acquired.</div>
+                    </div>
+                    <div class="firm-history-slide">
+                        <div class="firm-history-year">2017</div>
+                        <div class="firm-history-desc">Financial platform is acquired, the name changed to Loanify.</div>
+                    </div>
+                    <div class="firm-history-slide">
+                        <div class="firm-history-year">2018</div>
+                        <div class="firm-history-desc">Milan Capital Management is launched to house the 11 companies it owned under one roof and to focus strictly on Private Equity.</div>
+                    </div>
+                    <div class="firm-history-slide">
+                        <div class="firm-history-year">2019</div>
+                        <div class="firm-history-desc">MCM acquire 5 companies.</div>
                     </div>
                 </div>
                 <div class="firm-history-slider-prev-icon">
@@ -94,7 +109,7 @@
         </div>
         <div class="firm-introduction-col">
             <div class="firm-introduction-col-wrap">
-                <div class="firm-introduction-title">All Weather Performance</div>
+                <div class="firm-introduction-title">All-Weather Performance</div>
                 <div class="firm-introduction-desc">We look to our performance as being characterized by superior risk-adjusted returns across a broad and expanding range of asset classes and through all types of economic conditions.</div>
             </div>
         </div>

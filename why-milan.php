@@ -81,7 +81,7 @@ We do what we say we're going to do.</div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 mx-auto">
-                    <div class="section-desc">We're constantly trying to improve our workplace to provide our people with a collaborative, supportive and respectful environment that increases the participation and contribution of each and every employee. In parallel, we strive to support a diverse workplace and leverage the effects of diversity to achieve a competitive business advantage.</div>
+                    <div class="section-desc">We're constantly trying to improve our workplace to provide our people with a collaborative, supportive, and respectful environment that increases the participation and contribution of each and every employee. In parallel, we strive to support a diverse workplace and leverage the effects of diversity to achieve a competitive business advantage.</div>
                 </div>
             </div>
         </div>

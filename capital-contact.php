@@ -65,7 +65,7 @@ For urgent matters, please contact us by phone. Otherwise, please select one of 
 
     <div class="contact-desc-section">
         <div class="container">
-            <div class="contact-desc-text">A photo I.D. is required for all individuals visiting our office. Upon arrival, check in at the security desk and they will direct you to our main reception.</div>
+            <div class="contact-desc-text">A photo I.D. is required for all individuals visiting our office. Upon arrival, check-in at the security desk and they will direct you to our main reception.</div>
         </div>
     </div>
     <?php

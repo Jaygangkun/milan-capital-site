@@ -6,7 +6,7 @@
         <div class="container--large">
             <div class="home-hero-wrap">
                 <div class="home-hero-menu">
-                    <a class="home-hero-menu-link active">
+                    <a class="home-hero-menu-link" href="/#home_dna_section">
                         <div class="home-hero-slide-dot">
                             <img class="home-hero-slide-dot__img active" src="images/dot-green.png">
                             <img class="home-hero-slide-dot__img" src="images/dot-white.png">
@@ -16,7 +16,7 @@
                     <div class="home-hero-menu-link home-hero-menu-link--dots-only">
                         <img class="home-hero-slide-dot__img" src="images/3-dots.svg">
                     </div>
-                    <a class="home-hero-menu-link">
+                    <a class="home-hero-menu-link" href="/firm">
                         <div class="home-hero-slide-dot">
                             <img class="home-hero-slide-dot__img active" src="images/dot-green.png">
                             <img class="home-hero-slide-dot__img" src="images/dot-white.png">
@@ -26,7 +26,7 @@
                     <div class="home-hero-menu-link home-hero-menu-link--dots-only">
                         <img class="home-hero-slide-dot__img" src="images/3-dots.svg">
                     </div>
-                    <a class="home-hero-menu-link">
+                    <a class="home-hero-menu-link" href="/#strategies_section">
                         <div class="home-hero-slide-dot">
                             <img class="home-hero-slide-dot__img active" src="images/dot-green.png">
                             <img class="home-hero-slide-dot__img" src="images/dot-white.png">
@@ -36,41 +36,29 @@
                     <div class="home-hero-menu-link home-hero-menu-link--dots-only">
                         <img class="home-hero-slide-dot__img" src="images/3-dots.svg">
                     </div>
-                    <a class="home-hero-menu-link">
+                    <a class="home-hero-menu-link" href="/#join_team_section">
                         <div class="home-hero-slide-dot">
                             <img class="home-hero-slide-dot__img active" src="images/dot-green.png">
                             <img class="home-hero-slide-dot__img" src="images/dot-white.png">
                         </div>
-                        <span class="home-hero-menu-link__text">why milan</span>
+                        <span class="home-hero-menu-link__text">join milan</span>
                     </a>
-                    <div class="home-hero-menu-link home-hero-menu-link--dots-only">
+                    <!-- <div class="home-hero-menu-link home-hero-menu-link--dots-only">
                         <img class="home-hero-slide-dot__img" src="images/3-dots.svg">
                     </div>
-                    <a class="home-hero-menu-link">
+                    <a class="home-hero-menu-link" href="/capital-contact">
                         <div class="home-hero-slide-dot">
                             <img class="home-hero-slide-dot__img active" src="images/dot-green.png">
                             <img class="home-hero-slide-dot__img" src="images/dot-white.png">
                         </div>
                         <span class="home-hero-menu-link__text">contact</span>
-                    </a>
+                    </a> -->
                 </div>
                 <div class="home-hero-right">
                     <div class="home-hero-slider">
                         <div class="home-hero-slide-wrap">
                             <h2 class="home-hero-slide-title">CAPITAL ALLOCATORS, ENTREPRENEURS, OPERATORS, OPPORTUNISTS</h2>
-                            <div class="home-hero-slide-desc-40">As a global investment firm we work together to empower 
-                                our companies to create long-term value for our investors, 
-                                shareholders, and communities.</div>
-                        </div>
-                        <div class="home-hero-slide-wrap">
-                            <h2 class="home-hero-slide-title">2CAPITAL ALLOCATORS, ENTREPRENEURS, OPERATORS, OPPORTUNISTS</h2>
-                            <div class="home-hero-slide-desc-40">As a global investment firm we work together to empower 
-                                our companies to create long-term value for our investors, 
-                                shareholders, and communities.</div>
-                        </div>
-                        <div class="home-hero-slide-wrap">
-                            <h2 class="home-hero-slide-title">3CAPITAL ALLOCATORS, ENTREPRENEURS, OPERATORS, OPPORTUNISTS</h2>
-                            <div class="home-hero-slide-desc-40">As a global investment firm we work together to empower 
+                            <div class="home-hero-slide-desc-40">As a global investment firm, we work together to empower 
                                 our companies to create long-term value for our investors, 
                                 shareholders, and communities.</div>
                         </div>
@@ -79,7 +67,7 @@
                 <div class="home-hero-drop-down-icon-wrap">
                     <img class="home-hero-drop-down-icon-wrap-img" src="images/dropdown-arrow.svg">
                 </div>
-                <div class="home-hero-slick-dots">
+                <div class="home-hero-slick-dots" style="display: none">
                     <div class="home-hero-slick-dot active" index="0"></div>
                     <div class="home-hero-slick-dot" index="1"></div>
                     <div class="home-hero-slick-dot" index="2"></div>
@@ -126,14 +114,14 @@
             <div class="row">
                 <div class="col-lg-9 mx-auto text-center">
                     <h4 class="section-sub-title">ENGINEERING THE FUTURE</h4>
-                    <div class="home-future-desc">Lasting partnerships underpinned by trust and credibility is where we hang our hat.</div>  
+                    <div class="home-future-desc">Lasting partnerships underpinned by trust and credibility are where we hang our hat.</div>  
                 </div>
             </div>
         </div>
         <div class="home-future-line-v"></div>
     </div>
 
-    <div class="home-dna-section">
+    <div class="home-dna-section" id="home_dna_section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 mx-auto text-center">
@@ -141,43 +129,43 @@
                     <h4 class="home-dna-sub-title">Transforming Ideas into Execution</h4>  
                     <div class="section-desc">We blend pure entrepreneurial vigor and alchemy with unparalleled business acumen and financial discipline based on over a decade of investing experience. See what sets Milan apart.</div>
                     <div class="link-wrap">
-                        <a class="link link--green">The Firm</a>
+                        <a class="link link--green" href="/firm">The Firm</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="home-image-desc-section home-image-desc-section-align--right" style="background-image:url(images/home-investment-strategies-bk.png)">
+    <div class="home-image-desc-section home-image-desc-section-align--right" style="background-image:url(images/home-investment-strategies-bk.png)" id="strategies_section">
         <div class="container--large">
             <div class="home-image-desc-section-wrap">
                 <div class="home-image-desc-section-content">
                     <h4 class="section-sub-title-small">INVESTMENT STRATEGIES</h4>
                     <h2 class="section-title-playfair">Power Through Focus</h2>
-                    <div class="section-desc">We began in 2009 with three investors and a single private equity focus on de risking opportunities. Today, we remain singularly-focused on capturing the opportunities that have the lowest risk and the highest return.</div>
+                    <div class="section-desc">We began in 2009 with three investors and a single private equity focus on de-risking opportunities. Today, we remain singularly-focused on capturing the opportunities that have the lowest risk and the highest return.</div>
                     <div class="link-wrap">
-                        <a class="link link--outline">Our Strategies</a>
+                        <a class="link link--outline" href="/strategies">Our Strategies</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="home-image-desc-section home-image-desc-section-align--left" style="background-image:url(images/home-join-team-bk.png)">
+    <div class="home-image-desc-section home-image-desc-section-align--left" style="background-image:url(images/home-join-team-bk.png)" id="join_team_section">
         <div class="container--large">
             <div class="home-image-desc-section-wrap">
                 <div class="home-image-desc-section-content">
                     <h4 class="section-sub-title-small">JOIN OUR TEAM</h4>
                     <h2 class="section-title-playfair">Architect the Future</h2>
-                    <div class="section-desc">We bring people, ideas, and execution together to provide best in class career opportunities along the professional development path.</div>
+                    <div class="section-desc">We bring people, ideas, and execution together to provide best-in-class career opportunities along the professional development path.</div>
                     <div class="link-wrap">
-                        <a class="link link--outline">Explore The Possibilities</a>
+                        <a class="link link--outline" href="/why-milan">Explore The Possibilities</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="home-questions-section" id="home_questions_section">
+    <div class="home-questions-section" id="home_questions_section" style="display: none">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 mx-auto">                    

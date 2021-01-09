@@ -17,7 +17,7 @@
                     <h2 class="strategies-desc-section-text1 section-title">Milan adapted a series of tried and true principles.</h2>
                 </div>
                 <div class="col-lg-5">
-                    <div class="strategies-desc-section-text2 section-desc">One being Milans revolutionary buy-and-build strategy, leading the way to a new future of alternative asset management.</div>
+                    <div class="strategies-desc-section-text2 section-desc">One being Milan's revolutionary buy-and-build strategy, leading the way to a new future of alternative asset management.</div>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@
                     <div class="strategies-logo-desc-block-title">FLAGSHIP</div>
                 </div>
                 <div class="strategies-logo-desc-block-down section-desc text-center">
-                Our investments are anchored by our deployment in capital in more mundane, often overlooked sectors of the market.
+                Our investments are anchored by our deployment of capital in more mundane, often overlooked sectors of the market.
                 </div>
             </div>
             <div class="row">
@@ -56,7 +56,7 @@
                             <div class="strategies-logo-desc-block-title">EXPLORE</div>
                         </div>
                         <div class="strategies-logo-desc-block-down section-desc text-center">
-                        Funds are focused on automation and technology driven companies.
+                        Funds are focused on automation and technology-driven companies.
                         </div>
                     </div>
                 </div>
