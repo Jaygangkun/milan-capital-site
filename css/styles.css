@@ -64,22 +64,22 @@
     border-radius: 50px;
     margin: 10px 0px;
     cursor: pointer;
-    padding: 15px 30px;
+    padding: 10px 30px;
     text-decoration: none !important;
 }
 
 .active.home-hero-menu-link{
     background: #FFFFFF;
-    padding: 15px 30px;
+    padding: 10px 30px;
 }
 
 .home-hero-menu-link--dots-only{
-    padding: 5px 30px;
+    padding: 0px 30px;
 }
 
 .home-hero-menu-link:hover:not(.home-hero-menu-link--dots-only){
     background: #FFFFFF;
-    padding: 15px 30px;
+    padding: 10px 30px;
 }
 
 .home-hero-menu-link:hover:not(.home-hero-menu-link--dots-only) .home-hero-menu-link__text{
@@ -159,10 +159,10 @@
     line-height: 30px;
 }
 
-.home-hero-slide-desc-40{
+.home-hero-slide-desc-36{
     font-family: 'PlayfairDisplay-Regular';
     color: #FFFFFF;
-    font-size: 40px;
+    font-size: 36px;
     line-height: 65px;
 }
 
@@ -193,12 +193,12 @@
 
 .home-accelerated-innovation{
     background: #035b44;
-    padding-top: 135px;
+    padding-top: 100px;
 }
 
 .section-sub-title{
     color: #035b44;
-    font-size: 32px;
+    font-size: 30px;
     font-family: 'Gotham-Medium';
 }
 
@@ -209,10 +209,10 @@
 }
 
 .home-accelerated-note-desc{
-    font-size: 29px;
+    font-size: 26px;
     color: #596361;
     font-family: 'PlayfairDisplay-BoldItalic';
-    margin-top: 80px;
+    margin-top: 20px;
 }
 
 .home-accelerated-note{
@@ -228,9 +228,9 @@
 
 .home-accelerated-result-number{
     font-family: 'Gotham-Book';
-    font-size: 95px;
-    line-height: 95px;
-    margin-bottom: 30px;
+    font-size: 60px;
+    line-height: 70px;
+    margin-bottom: 20px;
     color: #FFFFFF;   
 }
 
@@ -261,16 +261,17 @@
 
 .home-future-desc{
     font-family: 'Gotham-Light';
-    font-size: 60px;
+    font-size: 46px;
     color: #596361;
+    line-height: 70px;
 }
 
 .home-future-section{
     background-image: url(../images/home-future-bk.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 130px;
     position: relative;
 }
 
@@ -281,13 +282,13 @@
     transform: translate(-50%, 50%);
     background: #035b44;
     width: 4px;
-    height: 150px;
+    height: 120px;
 }
 
 .home-accelerated-result-row-wrap{
     display: inline-block;
-    padding: 50px 0px;
-    padding-right: 100px;
+    padding: 30px 0px;
+    padding-right: 80px;
     border-bottom: 4px solid #FFFFFF;
 }
 
@@ -297,13 +298,13 @@
 
 .home-dna-title{
     font-family: 'Gotham-Medium';   
-    font-size: 72px;
+    font-size: 56px;
     color: #035b44;
 }
 
 .home-dna-sub-title{
     color: #231f20;
-    font-size: 50px;
+    font-size: 44px;
     font-family: 'PlayfairDisplay-Bold';
     margin-bottom: 30px;
 }
@@ -311,12 +312,12 @@
 .section-desc{
     color: #596361;
     font-family: 'Gotham-Book';
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .home-dna-section{
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .link-wrap{
@@ -325,10 +326,10 @@
 
 .link{
     font-family: 'Gotham-Book';
-    font-size: 24px;
+    font-size: 22px;
     text-decoration: none;
     cursor: pointer;
-    padding: 20px 40px;
+    padding: 15px 40px;
     display: inline-block;
 }
 
@@ -353,13 +354,13 @@
 
 .section-title-playfair{
     font-family: 'PlayfairDisplay-Bold';
-    font-size: 50px;
+    font-size: 44px;
     color: #231f20;   
     margin-bottom: 30px;
 }
 
 .home-image-desc-section{
-    padding-top: 200px;
+    padding-top: 120px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -378,7 +379,7 @@
 
 .home-image-desc-section-content{
     background: #FFFFFF;
-    padding: 70px;
+    padding: 50px;
     border-left: 4px solid #49b795;
 }
 
@@ -405,7 +406,7 @@
     position: absolute;
     left: 25%;
     width: 50%;
-    bottom: -30px;
+    bottom: -20px;
     height: 4px;
     background: #035b44;
 }
@@ -474,8 +475,8 @@
 }
 
 .footer-top{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background: #035b44;
 }
 
@@ -702,7 +703,7 @@
 }
 
 .header--white-bk .header-hamburger-icon__img--color{
-    display: block;
+    display: none;
 }
 
 .header--white-bk .header-hamburger-icon__img--white{
@@ -750,8 +751,8 @@
 }
 
 .firm-main-section{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .header--white-bk{
@@ -760,23 +761,23 @@
 
 .firm-history-year{
     font-family: 'PlayfairDisplay-Regular';
-    font-size: 80px;
+    font-size: 70px;
     color: #FFFFFF;
     text-align: center;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 .firm-history-desc{
     font-family: 'Gotham-Book';
-    font-size: 32px;
+    font-size: 26px;
     color: #FFFFFF;   
     text-align: center;
     padding-bottom: 80px;
 }
 
 .firm-history-section{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 60px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -803,8 +804,8 @@
 }
 
 .firm-desc-section{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .firm-desc-section .home-dna-sub-title{
@@ -833,7 +834,7 @@
 }
 
 .firm-introduction-col-wrap{
-    padding: 140px 60px;
+    padding: 80px 60px;
 }
 
 .firm-introduction-title{
@@ -893,22 +894,22 @@
 
 .section-title{
     font-family: 'PlayfairDisplay-Bold';
-    font-size: 48px;
+    font-size: 42px;
     color: #FFFFFF;   
-    line-height: 70px;
+    line-height: 60px;
 }
 
 .strategies-hero-section{
-    padding-top: 210px;
-    padding-bottom: 250px;
+    padding-top: 150px;
+    padding-bottom: 150px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .strategies-desc-section{
-    padding-top: 150px;
-    padding-bottom: 180px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background: #f9f9f9;
 }
 
@@ -921,12 +922,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 80px;
-    margin-bottom: 80px;
+    padding: 40px;
+    margin-bottom: 40px;
 }
 
 .strategies-logo-desc-block-logo__img{
-    height: 80px;
+    height: 60px;
 }
 
 .strategies-logo-desc-block--small .strategies-logo-desc-block-logo__img{
@@ -946,7 +947,7 @@
 }
 
 .strategies-logo-desc-block-title{
-    font-size: 42px;
+    font-size: 36px;
     font-family: 'Gotham-Medium';
     color: #929497;
 }
@@ -960,17 +961,18 @@
 }
 
 .strategies-logos-section{
-    padding-top: 150px;
+    padding-top: 80px;
 }
 
 .why-practice-section{
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background: #035b44
 }
 
 .why-practice-arrow-down__img{
-    margin-top: 50px;
+    margin-top: 30px;
+    height: 70px;
 }
 
 .why-practice-section .section-desc{
@@ -978,12 +980,12 @@
 }
 
 .why-title-desc-section{
-    padding-top: 150px;
+    padding-top: 80px;
     padding-bottom: 50px;
 }
 
 .why-title-block{
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
@@ -1001,8 +1003,8 @@
 }
 
 .why-diversity-section{
-    padding-top: 200px;
-    padding-bottom: 150px;
+    padding-top: 130px;
+    padding-bottom: 100px;
     background-size: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1010,17 +1012,17 @@
 
 .why-diversity-col-wrap{
     background: #FFFFFF;
-    padding: 110px 70px;
+    padding: 70px 50px;
     border-left: 7px solid #49b795;
 }
 
 .why-diversity-section .section-sub-title-small{
-    margin-bottom: 64px;
+    margin-bottom: 40px;
 }
 
 .why-desc-section{
-    padding-top: 150px;
-    padding-bottom: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .why-desc-section .section-desc{
@@ -1039,7 +1041,7 @@
     outline: none;
     font-size: 21px;
     font-family: 'Gotham-Book';
-    padding: 30px 60px;   
+    padding: 20px 30px;   
     color: #58595b;
     border-bottom: 1px solid #035b44;
     background: #FFFFFF;
@@ -1060,21 +1062,21 @@
 }
 
 .contact-form-section{
-    padding-top: 150px;
-    padding-bottom: 120px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background: #f9f9f9;
 }
 
 .contact-desc-text{
     color: #596361;
     text-align: center;
-    font-size: 29px;
+    font-size: 26px;
     font-family: 'PlayfairDisplay-BoldItalic';
 }
 
 .contact-desc-section{
-    padding-top: 110px;
-    padding-bottom: 110px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background: #f5f5f5;
 }
 

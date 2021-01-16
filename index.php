@@ -58,7 +58,7 @@
                     <div class="home-hero-slider">
                         <div class="home-hero-slide-wrap">
                             <h2 class="home-hero-slide-title">CAPITAL ALLOCATORS, ENTREPRENEURS, OPERATORS, OPPORTUNISTS</h2>
-                            <div class="home-hero-slide-desc-40">As a global investment firm, we work together to empower 
+                            <div class="home-hero-slide-desc-36">As a global investment firm, we work together to empower 
                                 our companies to create long-term value for our investors, 
                                 shareholders, and communities.</div>
                         </div>
